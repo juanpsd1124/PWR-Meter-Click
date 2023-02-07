@@ -1,0 +1,26 @@
+
+JSON Set Thresholds:
+
+{
+  "VSagLimit": 330,
+  "VSurgeLimit": 1000,
+  "OverCurrent": 420000,
+  "OverPower": 410000
+}
+
+
+JSON Set Calibration Values:
+
+{
+  "VoltageCal": 330,
+  "CurrentCal": 1000,
+  "PowerActCal": 420000
+}
+
+
+Fixed Commands:
+
+SaveFlash
+SaveEnergyCounters
+AutoCalibrationGain
+AutoCalibrationFrequency

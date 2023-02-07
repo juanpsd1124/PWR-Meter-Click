@@ -1,0 +1,1 @@
+python CodigoEjemploOriginal.py -e <a1q9v3uypa506z-ats.iot.us-west-2.amazonaws.com> -r </home/pi/CodigosPythonAWSIoT/CertificadosAWSRaspberryPi/rootCA.pem> -c </home/pi/CodigosPythonAWSIoT/CertificadosAWSRaspberryPi/certificate.pem.crt> -k /home/pi/CodigosPythonAWSIoT/CertificadosAWSRaspberryPi/private.pem.key> -m <subscribe>
